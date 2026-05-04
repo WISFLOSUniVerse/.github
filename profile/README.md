@@ -32,6 +32,7 @@ Education is decentralized
 Credentials are owned
 Economies are tokenized
 Communities are empowered
-🔗 Enter the UniVerse
-👉 https://wisflosuniverse6905.pinet.com⁠�
+🔗 Enter the WISFLOS UniVerse
+👉PiNet URL
+https://wisflosuniverse6905.pinet.com
 Build it. Dream it. Own it.
