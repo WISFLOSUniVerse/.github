@@ -1,4 +1,9 @@
-🌌 WISFLOS UniVerse
+🌌WISFLOSUniVerse ECOSYSTEM:
+DECENTRALIZED LEARNING;
+VERIFIABLE CREDENTIALS ;
+TOKENIZED ECONOMY,
+
+WISFLOS UniVerse
 A Decentralized Future for Education
 WISFLOS UniVerse is a next-generation hybrid university designed for a world where knowledge is digital, ownership is personal, and opportunity is global. Built within the Pi Network ecosystem, it merges real-world education with Web3 infrastructure to create a system that is open, transparent, and borderless by design.
 ⚡ Redefining the Academic System
