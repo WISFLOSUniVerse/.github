@@ -32,8 +32,9 @@ Education is decentralized
 Credentials are owned
 Economies are tokenized
 Communities are empowered
-WISFLOS UniVerse
--DECENTRALIZED LEARNIG
+
+WISFLOS UNIVERSE ECOSYSTEM 
+-DECENTRALIZED LEARNING
 -VERIFIABLE CREDENTIALS
 -TOKENIZED ECONOMY
 🔗 Enter the UniVerse
